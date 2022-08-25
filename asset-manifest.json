@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hava/static/css/main.3c55629f.css",
+    "main.js": "/hava/static/js/main.df654149.js",
+    "static/js/787.d9312eb8.chunk.js": "/hava/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/hava/index.html",
+    "main.3c55629f.css.map": "/hava/static/css/main.3c55629f.css.map",
+    "main.df654149.js.map": "/hava/static/js/main.df654149.js.map",
+    "787.d9312eb8.chunk.js.map": "/hava/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c55629f.css",
+    "static/js/main.df654149.js"
+  ]
+}
