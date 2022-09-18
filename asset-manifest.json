@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hava/static/css/main.aa256ca6.css",
-    "main.js": "/hava/static/js/main.9cd3ff4e.js",
+    "main.css": "/hava/static/css/main.6e1874b2.css",
+    "main.js": "/hava/static/js/main.2fa1d7e7.js",
     "static/js/787.d9312eb8.chunk.js": "/hava/static/js/787.d9312eb8.chunk.js",
     "index.html": "/hava/index.html",
-    "main.aa256ca6.css.map": "/hava/static/css/main.aa256ca6.css.map",
-    "main.9cd3ff4e.js.map": "/hava/static/js/main.9cd3ff4e.js.map",
+    "main.6e1874b2.css.map": "/hava/static/css/main.6e1874b2.css.map",
+    "main.2fa1d7e7.js.map": "/hava/static/js/main.2fa1d7e7.js.map",
     "787.d9312eb8.chunk.js.map": "/hava/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa256ca6.css",
-    "static/js/main.9cd3ff4e.js"
+    "static/css/main.6e1874b2.css",
+    "static/js/main.2fa1d7e7.js"
   ]
 }
